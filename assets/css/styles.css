@@ -4,7 +4,7 @@
 
 :root {
 
-  --hue-color: 335;
+  --hue-color: 25;
 
   --first-color: hsl(var(--hue-color), 53%, 49%);
   --title-color: hsl(var(--hue-color), 53%, 15%);
