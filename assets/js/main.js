@@ -38,7 +38,7 @@ const clockText = () =>{
         year = date.getFullYear()
 
     
-    if(hh >= 12){
+    if(hh <= 12){
         hh = hh - 12
         ampm = 'PM'
     }else{
